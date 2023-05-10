@@ -1,4 +1,4 @@
-# Data exploration
+# COVID-19 Insights
 
 ## Exploration of data performing SQL querries on a Covid-19 dataset and visualize insights in Tableau
 
